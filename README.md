@@ -1,8 +1,10 @@
-# Foxytoux Installer
+# TOXIC 
+
+[TELEGRAM](https://t.me/ToxicTechz)
 
 ## Overview
 
-This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot.
+This shell script is designed to automate the installation  a lightweight Ubuntu environment using Proot.
 
 ## Prerequisites
 
@@ -16,7 +18,7 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/foxytouxxx/freeroot.git
+    git clone https://github.com/uDToxin/freeroot
     cd freeroot
     ```
 
@@ -37,11 +39,10 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 
 ## License
 
-This Foxytoux Installer script is released under the [MIT License](LICENSE).
+This Toxic Installer script is released under the [MIT License](LICENSE).
 
 ## Credits
 
-Foxytoux Installer is developed and maintained by RecodeStudios.Cloud.
 This installer has been made possible thanks to [dxomg](https://github.com/dxomg) for his proot code
 
 ---

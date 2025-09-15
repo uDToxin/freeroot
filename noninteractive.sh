@@ -18,9 +18,9 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
   echo "#"
-  echo "#                                      Foxytoux INSTALLER"
+  echo "#                                      TOXIC INSTALLER"
   echo "#"
-  echo "#                           Copyright (C) 2024, RecodeStudios.Cloud"
+  echo "#                           Copyright (C) 2025, t.me/ToxicTechz"
   echo "#"
   echo "#"
   echo "#######################################################################################"
@@ -73,7 +73,7 @@ RESET_COLOR='\e[0m'
 display_gg() {
   echo -e "${WHITE}___________________________________________________${RESET_COLOR}"
   echo -e ""
-  echo -e "           ${CYAN}-----> Mission Completed ! <----${RESET_COLOR}"
+  echo -e "           ${CYAN}-----> Mission Completed ! Join Telegram Channel @ToxicTechz <----${RESET_COLOR}"
   echo -e ""
   echo -e "${WHITE}___________________________________________________${RESET_COLOR}"
 }
